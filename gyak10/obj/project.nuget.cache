@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RYIeM+uI7L7lY9Oi2k9QFCh46rXt8WnF/Ygl5j6oYqs0URPVMCZ/gV/q0FAeXs1EBeSJTkQW7fLxutkADbNgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\max38o\\source\\repos\\gyak10\\gyak10\\gyak10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\max38o\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
